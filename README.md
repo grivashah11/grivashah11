@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Griva Shah 👋
 
-<!--
-**grivashah11/grivashah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Artificial Intelligence & Data Science
+💻 Focused on coding, problem solving, and building impactful projects
 
-Here are some ideas to get you started:
+🛠️ Skills & Tools
+	•	Languages: C++, Python
+	•	Tools: Git, GitHub, VS Code, PyCharm
+	•	Areas of Interest: AI, Data Science, Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Current Goals
+	•	Strengthen problem-solving skills in C++ and Python
+	•	Build and publish personal projects
+	•	Explore Machine Learning foundations
+	•	Start contributing to open-source
+
+📫 Connect
+	•	LinkedIn: www.linkedin.com/in/grivashah
+	•	Email: grivashah.2006@gmail.com
